@@ -25,22 +25,19 @@ The things you need before installing this tool.
 A step by step guide that will tell you how to get the development environment up and running.
 
 ```
-git clone https://github.com/whoami-anoint/automation && cd automation
+git clone https://github.com/gl1tch101/K4nd0.git && cd K4nd0
 ```
 ```
-chmod 777 automation.sh
-```
-```
-./automation.sh
+chmod 777 K4nd0.sh
 ```
 
 ## Usage:
 ```
-./automation.sh 
+./K4nd0.sh 
 ```
 Or 
 ```
-bash automation.sh
+bash K4nd0.sh
 ```
 
 
