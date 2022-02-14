@@ -1,4 +1,4 @@
-### K4nd0
+### K4nd0 [Kindly Address N' Deliever Output]
 <br>
 Let's automated our target for recon.
 
@@ -46,5 +46,3 @@ bash automation.sh
 
 ## Additional Documentation and Acknowledgments:
 I just create a bash program file with all existing tools. And I would like to thanks all those respective owner too.
-
-```Happy Hacking!!❤️```
